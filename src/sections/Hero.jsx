@@ -1,5 +1,4 @@
 import profile from "../assets/profile.png";
-import resume from "../assets/karthik_Resume.docx";
 
 function Hero(){
 
@@ -46,7 +45,7 @@ function Hero(){
                     </p>
 
                    <a
-                        href="resume"
+                        href="/Karthik_Resume.docx"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="
