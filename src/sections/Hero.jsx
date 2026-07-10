@@ -1,4 +1,5 @@
 import profile from "../assets/profile.png";
+import resume from "../assets/karthik_Resume.docx";
 
 function Hero(){
 
@@ -44,8 +45,13 @@ function Hero(){
                         AIML Engineer | Full Stack Developer
                     </p>
 
-                    <button className="
+                   <a
+                        href="resume"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="
                         mt-8
+                        inline-block
                         border-4
                         border-yellow-500
                         px-8
@@ -54,9 +60,9 @@ function Hero(){
                         uppercase
                         hover:bg-white
                         hover:text-black
-                    ">
-                        View Projects
-                    </button>
+                        ">
+                        View Resume
+                    </a>
 
                 </div>
 
