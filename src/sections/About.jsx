@@ -4,17 +4,29 @@ function About() {
             id="about"
             className="
                 px-10
-                py-5
+                py-10
                 mt-10
-                border-t-4
-                border-white
-                border-b-4
+                relative
+                before:absolute
+                before:top-0
+                before:right-0
+                before:w-[70%]
+                before:h-1
+                before:bg-white
+
+                after:absolute
+                after:bottom-0
+                after:left-0
+                after:w-[70%]
+                after:h-1
+                after:bg-white
+
                 bg-black
             "
         >
             <h2
                 className="
-                    text-6xl
+                    text-5xl
                     font-black
                     uppercase
                     text-sky-600
@@ -25,9 +37,8 @@ function About() {
 
             <div
                 className="
-                    mt-50
                     max-w-7xl
-                    pt-25
+                    pt-10
                     text-xl
                     font-bold
                     leading-relaxed

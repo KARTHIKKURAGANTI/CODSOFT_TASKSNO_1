@@ -17,6 +17,7 @@ function ProjectCard({project}){
             text-3xl
             font-black
             uppercase
+            text-yellow-500
             ">
                 {project.title}
             </h3>
@@ -67,7 +68,7 @@ function ProjectCard({project}){
             inline-block
             mt-6
             border-4
-            border-white
+            border-yellow-500
             px-5
             py-2
             font-black

@@ -11,14 +11,13 @@ function Skills(){
         min-h-screen
         px-10
         py-20
-        border-b-4
-        border-white
+
         bg-black
         ">
 
 
             <h2 className="
-                text-6xl
+                text-5xl
                 font-black
                 uppercase
                 text-sky-600

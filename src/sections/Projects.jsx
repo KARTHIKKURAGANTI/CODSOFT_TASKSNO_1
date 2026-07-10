@@ -12,16 +12,15 @@ function Projects(){
         px-10
         pt-10
         pb-17.5
-        border-b-4
-        border-white
         bg-black
         ">
 
             <h2
             className="
-            text-6xl
+            text-5xl
             font-black
             uppercase
+            text-sky-600
             "
             >
                 Projects

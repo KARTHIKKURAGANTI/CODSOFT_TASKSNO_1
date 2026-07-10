@@ -12,7 +12,7 @@ const projects = [
         ],
 
         github:
-        "https://github.com/yourusername/twinsta"
+        "https://github.com/KARTHIKKURAGANTI/twinsta"
     },
 
 
@@ -20,7 +20,7 @@ const projects = [
         title: "TraverseHub",
 
         description:
-        "An AI-powered DSA assistant that explains concepts, analyzes code and helps developers solve problems.",
+        "A site which helps to increase the typing the speed and accuracy of the user by providing various typing tests and also caluculate several typing metrics.",
 
         tech:[
             "React",
@@ -29,7 +29,7 @@ const projects = [
         ],
 
         github:
-        "https://github.com/yourusername/traversehub"
+        "https://github.com/KARTHIKKURAGANTI/TYPING_ENHANCER"
     },
 
 
@@ -46,7 +46,7 @@ const projects = [
         ],
 
         github:
-        "https://github.com/yourusername/neuronotes"
+        "https://github.com/KARTHIKKURAGANTI/neuronotes"
     }
 
 ];
