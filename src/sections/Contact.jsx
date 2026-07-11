@@ -44,7 +44,7 @@ function Contact(){
 
 
                 <a
-                href="https://mail.google.com/mail/?view=cm&fs=1&to=urstrulykartheeek@gmail.com"
+                href="mailto:urstrulykartheeek@gmail.com?subject=Portfolio%20Contact"
                 className="
                 border-4
                 border-yellow-500
