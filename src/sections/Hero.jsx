@@ -1,4 +1,5 @@
 import profile from "../assets/profile.png";
+import Reveal from "../components/Reveal";
 
 function Hero(){
 
@@ -19,8 +20,8 @@ function Hero(){
                 justify-between
                 gap-16
             ">
-
                 {/* Left Content */}
+                <Reveal>
                 <div>
 
                     <h1 className="
@@ -64,9 +65,11 @@ function Hero(){
                     </a>
 
                 </div>
+                </Reveal>
 
 
                 {/* Right Image */}
+               
                 <div>
                     <img
                         src={profile}
